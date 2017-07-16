@@ -75,9 +75,7 @@ review, withdraws their hold, or is overruled by a preponderance of maintainers.
 
 ## Project maintainers
 
-Merging of PRs is done by the project maintainers. The current
-list of maintainers is kept in the [OWNERS](OWNERS) file at the root of
-each repository.
+Merging of PRs is done by the project maintainers.
 
 Like many open source projects, becoming a maintainer is based on contributions
 to the project. Active contributors to the project will eventually get noticed
